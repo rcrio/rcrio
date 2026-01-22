@@ -2,7 +2,7 @@
 
 I'm Ricky, a 2nd-year Computer Science student at King's College London.  
 
-I’m passionate about **full-stack development**, **game development**, and **cloud engineering**.
+I’m passionate about **game development** and **low-level programming**.
 
 ## 🛠 Languages & Tech
 **Languages:** C#, Java, Python, C++, Scala, HTML, CSS  
