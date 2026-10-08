@@ -16,7 +16,7 @@ Languages: **C++, Python**, Java, C#
 |---------|-------------------------|--------|-------------|
 | Voxel Engine | C++, Raylib | Planned | A new voxel engine building on experience gained from Saivox Engine. |
 | Text Adventure | C++ | Planned | A new text adventure project building on the original implementation. |
-| PPPv3 exercises | C++ | Planned | Exercises from `Programming: Principles and Practice Using C++`. |
+| PPPv2/v3 exercises | C++ | Planned | Exercises from `Programming: Principles and Practice Using C++`. |
 | Portfolio | React, Django (?) | Planned | A website showcasing my experience, education, projects, interests, etc. in a visually appealing form. |
 | CV Hub (private) | LaTeX | Planned | A repository for all CVs. Just here as a reminder, this won't be public. |
 
