@@ -16,6 +16,7 @@ Languages: **C++, Python**, Java, C#
 |---------|-------------------------|--------|-------------|
 | Voxel Engine | C++, Raylib | Planned | A new voxel engine building on experience gained from Saivox Engine. |
 | Text Adventure | C++ | Planned | A new text adventure project building on the original implementation. |
+| PPPv3 exercises | C++ | Planned | Exercises from `Programming: Principles and Practice Using C++`. |
 | Portfolio | React, Django (?) | Planned | A website showcasing my experience, education, projects, interests, etc. in a visually appealing form. |
 | CV Hub (private) | LaTeX | Planned | A repository for all CVs. Just here as a reminder, this won't be public. |
 
@@ -25,10 +26,10 @@ Some personal projects that are public.
 
 | Project | Language / Technologies | Status | Description |
 |---------|-------------------------|--------|-------------|
-| [Saivox Engine](https://github.com/rcrio/saivox-engine-old) | C++, OpenGL, GLFW | Archived (revisiting something similar soon) | Voxel engine developed as a learning project, with the goal of supporting a future game. |
+| [Saivox Engine](https://github.com/rcrio/saivox-engine-old) | C++, OpenGL, GLFW | Archived | Voxel engine developed as a learning project, with the goal of supporting a future game. |
 | [Top-Down Game](https://github.com/rcrio/csharp-top-down-game-project) | C#, Raylib | Archived | Top-down game featuring movement and tile placement. |
 | [HTTP Log Analyser](https://github.com/rcrio/ieuk2025-project) | Python, NumPy | Archived | Script for analysing HTTP response logs. |
-| [C++ Text Adventure](https://github.com/rcrio/cpp-text-adventure) | C++ | Archived (revisiting soon) | Command-line text adventure game. |
+| [C++ Text Adventure](https://github.com/rcrio/cpp-text-adventure) | C++ | Archived | Command-line text adventure game. |
 
 ## University Projects
 
